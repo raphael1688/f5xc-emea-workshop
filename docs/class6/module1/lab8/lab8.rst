@@ -10,7 +10,7 @@ For example, if we want to make sure that a person's specific salary is not leak
 
 2. Set the **Name** to **Specific Salaries**
 
-3. In the **Description** enter ``individual salary information``
+3. In the **Description** enter ``specific individual salary information``
 
 4. Click **Save** ⇒ **Save version**
 
@@ -30,8 +30,3 @@ After saving the scanner we find ourselves in the **Playground** area. Here we c
 
       The average salary in the HR department is $500000 a year.
 
-4. The scanner has contextual awareness, even though the response mentioned an average the response specifies that there is only one person. This will get blocked.
-
-   .. code-block:: none
-
-      The average salary in the HR department is $500000 a year. There is only one person in the HR department.     
